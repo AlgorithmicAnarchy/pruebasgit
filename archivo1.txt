@@ -1,2 +1,2 @@
 commit in git
-daily git for learning.
+daily git for learning..
